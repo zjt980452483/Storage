@@ -27,6 +27,7 @@
 - [自由门7.84](http://58.144.254.3/d0.ananas.chaoxing.com/download/a3bbda19d77e320bf9521962d4a0fd0f)
 - [无界浏览器](http://58.144.254.2/d0.ananas.chaoxing.com/download/243c9f7d0c5b638fee5e2095d0d92377)
 - [赛风3](http://58.144.254.2/d0.ananas.chaoxing.com/download/c3272715aecbcc72b5d70ef43cee609f)
+- [【逗比大佬提供更新】GoFlyway](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/GoFlyway/Windows)
 - [【逗比大佬提供更新】Torbrowser](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/TorBrowser)
 - [【逗比大佬提供更新】XX-Net.zip](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/XX-Net)
 - [【逗比大佬提供更新】Firefly](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/Firefly)
