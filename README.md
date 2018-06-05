@@ -19,7 +19,21 @@
 - [赛风3](http://58.144.254.2/d0.ananas.chaoxing.com/download/c3272715aecbcc72b5d70ef43cee609f)
 - [XX-Net-v3.11.9.zip](http://58.144.254.1/d0.ananas.chaoxing.com/download/7403963afb98dcd965119fb24bebc47f)
 
+## 苹果Vpn推荐
+>IOS上不建议使用：热点、极速、蓝灯、Rocket、Master
 
+最近搜索时间|AppStore搜索关键词|开发商
+:-:|:-:|:-:
+6月3日有效|小双|shuangyi zhong
+6月3日有效|AnyConnect|Ciscao System，inc
+5月31日有效|有效熊猫Vpn|Bin Lu
+5月31日有效|海豚Vpn|Jason Zhou
 
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="描述语言，写什么都不会显示出来"/>
+## 安卓Ins、YouTube等安装包
 
+- [Instagaram](https://instagram.en.uptodown.com/android)
+- [Youtube](https://youtube.en.uptodown.com/android)
+- [Twitter](https://twitter.en.uptodown.com/android)
+- [Facebook](https://facebook.en.uptodown.com/android)
+- [Snapchat](https://snapchat.en.uptodown.com/android)
+- [Telegram](https://telegram.en.uptodown.com/android)
