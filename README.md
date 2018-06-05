@@ -5,10 +5,12 @@
   * [电脑Vpn安装包](#%E7%94%B5%E8%84%91vpn%E5%AE%89%E8%A3%85%E5%8C%85)
   * [苹果Vpn推荐](#%E8%8B%B9%E6%9E%9Cvpn%E6%8E%A8%E8%8D%90)
   * [安卓Ins、YouTube等安装包](#%E5%AE%89%E5%8D%93insyoutube%E7%AD%89%E5%AE%89%E8%A3%85%E5%8C%85)
-  
+
+>Mac翻墙，请看我微信公众号上的教程
+
 ## 安卓Vpn安装包
 >推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom
-
+>>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 - [【20180601更新】绿叶VPN5.1.0](http://58.144.254.1/d0.ananas.chaoxing.com/download/119b0d7acfa27da00223de5af2209310)
 - [【20180525更新】FreeVPN3.2.4](http://58.144.254.1/d0.ananas.chaoxing.com/download/670eeacc230d389a82ca98a6adfcc12d)
 - [【20180601更新】FreeVpn1.6.8](http://58.144.254.3/d0.ananas.chaoxing.com/download/3042b954d608b6d3acdc2b812393080c)
@@ -19,7 +21,7 @@
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
 
 ## 电脑Vpn安装包
->推荐：看我微信公众号学习使用ssr,稳定,免费,不易失效
+>推荐：看我微信公众号学习使用ssr,稳定,免费,不限流量,不易失效
 - [Torbrowser7.5](http://58.144.254.1/d0.ananas.chaoxing.com/download/193830df032a30cc89a43395f5852064)
 - [自由门7.84](http://58.144.254.3/d0.ananas.chaoxing.com/download/a3bbda19d77e320bf9521962d4a0fd0f)
 - [无界浏览器](http://58.144.254.2/d0.ananas.chaoxing.com/download/243c9f7d0c5b638fee5e2095d0d92377)
@@ -28,7 +30,7 @@
 
 ## 苹果Vpn推荐
 >IOS上不建议使用：热点、极速、蓝灯、Rocket、Master
-
+>>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 最近搜索时间|AppStore搜索关键词|开发商
 :-:|:-:|:-:
 6月3日有效|小双|shuangyi zhong
