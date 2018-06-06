@@ -9,12 +9,12 @@
 >Mac翻墙，请看我微信公众号上的教程
 
 ## 安卓Vpn安装包
->推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom
+>推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom、Proxy Master
 >>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 - [【逗比大佬提供】Turob、Yoga、Snap、Free、Atom等Vpn看这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
 - [【20180601更新】绿叶VPN5.1.0](http://58.144.254.1/d0.ananas.chaoxing.com/download/119b0d7acfa27da00223de5af2209310)
 - [【20180525更新】FreeVPN3.2.4](http://58.144.254.1/d0.ananas.chaoxing.com/download/670eeacc230d389a82ca98a6adfcc12d)
-- [【20180601更新】FreeVpn1.6.8](http://58.144.254.3/d0.ananas.chaoxing.com/download/3042b954d608b6d3acdc2b812393080c)
+- [【20180601更新】Proxy Master1.6.8](http://58.144.254.3/d0.ananas.chaoxing.com/download/3042b954d608b6d3acdc2b812393080c)
 - [Securevpn3.3.6](http://58.144.254.4/d0.ananas.chaoxing.com/download/29dc0648ae95f46e82affdff92ead249)
 - [EasyVpn1.3.4](http://58.144.254.2/d0.ananas.chaoxing.com/download/00cbcc032b59278c8190c5e379074fec)
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
