@@ -9,7 +9,7 @@
 >Mac翻墙，请看我微信公众号上的教程
 
 ## 安卓Vpn安装包
->推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom、Proxy Master
+>推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom
 >>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 - [【逗比大佬提供】Turob、Yoga、Snap、Free、Atom等Vpn看这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
 - [【20180601更新】绿叶VPN5.1.0](http://58.144.254.1/d0.ananas.chaoxing.com/download/119b0d7acfa27da00223de5af2209310)
@@ -36,12 +36,12 @@
 >IOS上不建议使用：热点、极速、蓝灯、Rocket、Master
 >>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 
-最近搜索时间|AppStore搜索关键词|开发商
-:-:|:-:|:-:
-6月3日有效|小双|shuangyi zhong
-6月3日有效|AnyConnect|Ciscao System，inc
-5月31日有效|有效熊猫Vpn|Bin Lu
-5月31日有效|海豚Vpn|Jason Zhou
+备注|最近搜索时间|AppStore搜索关键词|开发商
+:-:|:-:|:-:|:-:
+|6月3日有效|小双|shuangyi zhong
+|6月3日有效|AnyConnect|Ciscao System，inc
+不建议付费,付费后易失效|5月31日有效|熊猫Vpn|Bin Lu
+|5月31日有效|海豚Vpn|Jason Zhou
 
 ## 安卓Ins、YouTube等安装包
 
