@@ -38,10 +38,10 @@
 
 备注|最近搜索时间|AppStore搜索关键词|开发商
 :-:|:-:|:-:|:-:
-|6月3日有效|小双|shuangyi zhong
-|6月3日有效|AnyConnect|Ciscao System，inc
+ |6月3日有效|小双|shuangyi zhong
+ |6月3日有效|AnyConnect|Ciscao System，inc
 不建议付费,付费后易失效|5月31日有效|熊猫Vpn|Bin Lu
-|5月31日有效|海豚Vpn|Jason Zhou
+ |5月31日有效|海豚Vpn|Jason Zhou
 
 ## 安卓Ins、YouTube等安装包
 
