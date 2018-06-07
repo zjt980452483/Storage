@@ -11,7 +11,7 @@
 ## 安卓Vpn安装包
 >推荐：**Turbo、Yoga、Free、Easy、Secure、绿叶、Atom**
 >>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
-- [【逗比大佬提供】Turob、Yoga、Snap、Free、Atom等Vpn看这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
+- [【逗比大佬提供】下载Turob、Yoga、Snap、Free、Atom等Vpn点这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
 - [【20180601更新】绿叶VPN5.1.0](http://58.144.254.1/d0.ananas.chaoxing.com/download/119b0d7acfa27da00223de5af2209310)
 - [【20180525更新】FreeVPN3.2.4](http://58.144.254.1/d0.ananas.chaoxing.com/download/670eeacc230d389a82ca98a6adfcc12d)
 - [【20180601更新】Proxy Master1.6.8](http://58.144.254.3/d0.ananas.chaoxing.com/download/3042b954d608b6d3acdc2b812393080c)
@@ -20,6 +20,7 @@
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
 - [无界4.3](http://58.144.254.4/d0.ananas.chaoxing.com/download/030e218136a50a1a31830bbaa0e21439)
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
+'vpn失效请在微信上或者小站上留言'
 
 ## 电脑Vpn安装包
 >推荐：看我微信公众号学习使用ssr,稳定,免费,不限流量,不易失效
