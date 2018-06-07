@@ -9,7 +9,7 @@
 >Mac翻墙，请看我微信公众号上的教程
 
 ## 安卓Vpn安装包
->推荐：Turbo、Yoga、Free、Easy、Secure、绿叶、Atom
+>推荐：**Turbo、Yoga、Free、Easy、Secure、绿叶、Atom**
 >>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 - [【逗比大佬提供】Turob、Yoga、Snap、Free、Atom等Vpn看这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
 - [【20180601更新】绿叶VPN5.1.0](http://58.144.254.1/d0.ananas.chaoxing.com/download/119b0d7acfa27da00223de5af2209310)
@@ -45,9 +45,10 @@
 
 ## 安卓Ins、YouTube等安装包
 
-- [Instagaram](https://instagram.en.uptodown.com/android)
-- [Youtube](https://youtube.en.uptodown.com/android)
+- [**Instagaram**](https://instagram.en.uptodown.com/android)
+- [**Youtube**](https://youtube.en.uptodown.com/android)
+- [**Facebook**](https://facebook.en.uptodown.com/android)
 - [Twitter](https://twitter.en.uptodown.com/android)
-- [Facebook](https://facebook.en.uptodown.com/android)
 - [Snapchat](https://snapchat.en.uptodown.com/android)
 - [Telegram](https://telegram.en.uptodown.com/android)
+- [Tumblr](https://androidappsapk.co/detail-tumblr/)
