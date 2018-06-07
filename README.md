@@ -20,7 +20,8 @@
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
 - [无界4.3](http://58.144.254.4/d0.ananas.chaoxing.com/download/030e218136a50a1a31830bbaa0e21439)
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
-'vpn失效请在微信上或者小站上留言'
+
+`vpn失效请在微信上或者小站上留言`
 
 ## 电脑Vpn安装包
 >推荐：看我微信公众号学习使用ssr,稳定,免费,不限流量,不易失效
@@ -34,7 +35,7 @@
 - [【逗比大佬提供更新】Firefly](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/Firefly)
 
 ## 苹果Vpn推荐
->IOS上不建议使用：热点、极速、蓝灯、Rocket、Master
+>IOS上**不**建议使用：热点、极速、蓝灯、Rocket、Master
 >>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 
 备注|最近搜索时间|AppStore搜索关键词|开发商
