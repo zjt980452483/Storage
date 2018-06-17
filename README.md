@@ -4,7 +4,6 @@
   * [安卓Vpn安装包](#%E5%AE%89%E5%8D%93vpn%E5%AE%89%E8%A3%85%E5%8C%85)
   * [电脑Vpn安装包](#%E7%94%B5%E8%84%91vpn%E5%AE%89%E8%A3%85%E5%8C%85)
   * [苹果Vpn推荐](#%E8%8B%B9%E6%9E%9Cvpn%E6%8E%A8%E8%8D%90)
-  * [安卓Ins、YouTube等安装包](#%E5%AE%89%E5%8D%93insyoutube%E7%AD%89%E5%AE%89%E8%A3%85%E5%8C%85)
 
 >Mac翻墙，请看我微信公众号上的教程
 
@@ -44,13 +43,3 @@
 无|6月3日有效|AnyConnect|Ciscao System，inc
 不建议付费,付费后易失效|5月31日有效|熊猫Vpn|Bin Lu
 无|5月31日有效|海豚Vpn|Jason Zhou
-
-## 安卓Ins、YouTube等安装包
-
-- [**Instagaram**](https://instagram.en.uptodown.com/android)
-- [**Youtube**](https://youtube.en.uptodown.com/android)
-- [**Facebook**](https://facebook.en.uptodown.com/android)
-- [Twitter](https://twitter.en.uptodown.com/android)
-- [Snapchat](https://snapchat.en.uptodown.com/android)
-- [Telegram](https://telegram.en.uptodown.com/android)
-- [Tumblr](https://androidappsapk.co/detail-tumblr/)
