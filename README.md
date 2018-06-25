@@ -17,7 +17,7 @@
 - [Securevpn3.3.6](http://58.144.254.4/d0.ananas.chaoxing.com/download/29dc0648ae95f46e82affdff92ead249)
 - [EasyVpn1.3.4](http://58.144.254.2/d0.ananas.chaoxing.com/download/00cbcc032b59278c8190c5e379074fec)
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
-- [无界4.3](http://58.144.254.4/d0.ananas.chaoxing.com/download/030e218136a50a1a31830bbaa0e21439)
+- [无界4.5](http://58.144.254.1/d0.ananas.chaoxing.com/download/70586666d54d5749798bf405d6f00eb6)
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
 
 `vpn失效请在微信上或者小站上留言`
@@ -26,7 +26,7 @@
 >推荐：看我微信公众号学习使用ssr,稳定,免费,不限流量,不易失效
 
 - [自由门7.84](http://58.144.254.3/d0.ananas.chaoxing.com/download/a3bbda19d77e320bf9521962d4a0fd0f)
-- [无界浏览器](http://58.144.254.2/d0.ananas.chaoxing.com/download/243c9f7d0c5b638fee5e2095d0d92377)
+- [无界浏览器](http://58.144.254.2/d0.ananas.chaoxing.com/download/6a58f272566e12c73d2c869ed462ff9b)
 - [赛风3](http://58.144.254.2/d0.ananas.chaoxing.com/download/c3272715aecbcc72b5d70ef43cee609f)
 - [【逗比大佬提供更新】GoFlyway](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/GoFlyway/Windows)
 - [【逗比大佬提供更新】Torbrowser](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/TorBrowser)
